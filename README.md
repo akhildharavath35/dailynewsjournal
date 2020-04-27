@@ -1,4 +1,4 @@
 # dailynewsjournal
-its a online platform where you can  come to know latest updated news
+its a online platform where you come to know latest news.
   
 Project url : "https://dailynewsjournal.herokuapp.com/"
